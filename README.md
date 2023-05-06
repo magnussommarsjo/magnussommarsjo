@@ -1,7 +1,9 @@
 ### About me
-👨‍🔬 Working as a **Data Scientist** at **Volvo Cars**
+👨‍🔬 Working as a **Data Scientist** at **Volvo Cars** 🚗
 
-### Languges of interest
+💪 [**Project Portfolio**](portfolio.md) 💼
+
+### Languges of interest 💻
 - Python 🐍
 - TypeScript
 - Rust
@@ -11,5 +13,3 @@
 - Docker 🐋
 - Databricks
 
-### Projects involved in
-- [Image Transfer](https://github.com/magnussommarsjo/image_transfer) 🖼️
